@@ -9,7 +9,7 @@ output: html_document
 Introduction
 ------------
 
-It is well known that individual well-being can be influenced by climatic conditions, especially in nothern country. However, ...
+It is well known that individual well-being can be influenced by climatic conditions, especially in nothern country (put some sexy reference here). However, ...
 
 
 Methods
@@ -48,6 +48,8 @@ kable(xtable(model))
 # Plot
 library(visreg, quietly=T)
 visreg(model)
+# try ggplot
+
 ```
 
 Discussion
