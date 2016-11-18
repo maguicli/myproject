@@ -9,7 +9,7 @@ output: html_document
 Introduction
 ------------
 
-It is well known that individual well-being can be influenced by climatic conditions. However, ...
+It is well known that individual well-being can be influenced by climatic conditions, especially in nothern country. However, ...
 
 
 Methods
